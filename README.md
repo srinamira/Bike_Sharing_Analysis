@@ -58,7 +58,5 @@ Install all the necessary libraries by running the following command:
    ```bash
    streamlit run dashboard.py
    ```
-### Dashboard View
-
 
 
